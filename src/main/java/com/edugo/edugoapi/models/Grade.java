@@ -1,5 +1,7 @@
 package com.edugo.edugoapi.models;
 
+import java.math.BigDecimal;
+
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
